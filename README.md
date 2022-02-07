@@ -1,5 +1,5 @@
 ## Wires, a lang based on an Advent of Code problem
-### Following along in https://beautifulracket.com/jsonic
+### Following along in https://beautifulracket.com
 #### Problem: Each wire is identified by lowercase letters and can carry a 16 bit signal. Each wire can only recieve a signal from a single source. However, each wire can provide a signal to multiple other wires. Wires can be connected via bitwise logic gates, no gate provides signal until all of its inputs have a signal
 
 ```racket
